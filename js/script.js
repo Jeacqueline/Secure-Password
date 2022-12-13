@@ -36,6 +36,13 @@ function generatePassword(){
     if (letter == true);   var passwordLowerCase = 'abcdefghijklmnopqrstuvwxyz'
     }
 
+
+    var password = " ";
+    for (var i=0; i <= 128; i++){
+      var randomNumber = Math.floor(Math.random()* chars.length);
+      password += chars.substring(randomNumber, randomNumber +1);
+    }
+    
 //show it on screen
   return;
 }
