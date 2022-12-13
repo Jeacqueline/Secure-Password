@@ -26,5 +26,5 @@
 
 
 ![Mock-up](./images/Mock-up-SP.png)
-[GitHub-Jeacqueline/Challenge3]()
-[GitHub-Jeacqueline/Repository]()
+[GitHub-Jeacqueline/Challenge3](https://jeacqueline.github.io/Secure-Password/)
+[GitHub-Jeacqueline/Repository](https://github.com/Jeacqueline/Secure-Password)
